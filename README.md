@@ -1,1 +1,1 @@
-티어: https://solved.ac/profile/fruitfighter
+https://solved.ac/profile/fruitfighter
