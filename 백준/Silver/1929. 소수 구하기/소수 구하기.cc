@@ -1,10 +1,9 @@
-
 #include <cmath>
 #include<iostream>
 using namespace std;
 
 long long int a[1000001];
-int main(void)
+int main()
 {
 	long long int n, m;
 	cin >> n >> m;
